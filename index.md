@@ -4,7 +4,7 @@
 If you want to embed images, this is how you do it:
 
 
-![Image text](https://github.com/AmmoF/-AmmoF.github.io/blob/master/img/HelloPretty.PNG)
+![Image text](https://github.com/AmmoF/-AmmoF.github.io/raw/master/img/HelloPretty.PNG)
 
 This is the [editor on GitHub](https://github.com/AmmoF/-AmmoF.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
